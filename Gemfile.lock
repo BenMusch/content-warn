@@ -218,6 +218,8 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   awesome_print
+  bitters
+  bourbon
   bundler-audit (>= 0.5.0)
   dotenv-rails
   flutie

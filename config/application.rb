@@ -23,5 +23,7 @@ module ContentWarn
     config.action_controller.action_on_unpermitted_parameters = :raise
     config.load_defaults 5.1
     config.generators.system_tests = nil
+    config.sass.preferred_syntax = :sass
+    config.sass.line_comments = false
   end
 end

@@ -20,6 +20,8 @@ gem "suspenders"
 gem "title"
 gem "uglifier"
 gem "haikunator"
+gem "bourbon"
+gem "bitters"
 
 
 group :development do
